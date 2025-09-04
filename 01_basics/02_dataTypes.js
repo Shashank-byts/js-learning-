@@ -3,6 +3,8 @@
 let name ="shashank"
 let age=18
 let isLogdedIn =true
+console.log(name,age);
+
 /*
 types of dataTypes 
 number 
